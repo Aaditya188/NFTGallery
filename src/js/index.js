@@ -46,7 +46,7 @@ btn.addEventListener("click", function() {
 }, false);
 game1.addEventListener("click", function() {
     
-        location.href = 'https://virtual-van-gogh-museum-demo.vercel.app/';
+        location.href = 'https://nftgallerymuseum.vercel.app/';
    
     
 }, false);
